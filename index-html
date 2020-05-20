@@ -1,0 +1,13 @@
+body {
+  width: 1170px;
+  height: 80px;
+}
+img:active{
+  position:relative;
+  top: 7px;
+  left: 7px;
+  box-shadow: none;
+}
+img {
+  box-shadow:7px 7px #000000;
+}
